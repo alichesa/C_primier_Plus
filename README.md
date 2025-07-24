@@ -173,7 +173,9 @@
 - STL包含容器（vector..）、算法(sort..)、迭代器(begin..)、仿函数(f(x)..)、空间支配器(allocator..)
 
 - this指针是类中的隐式指针，每当要访问当前对象中的成员函数的时候，this指针都会指向该地址
+
 - 类就是一种模板，对象是类的实例
+<img width="227" height="418" alt="image" src="https://github.com/user-attachments/assets/20dbc89c-5487-4805-9387-a01992857f68" />
 
 - push_back--复制一个元素加入  emplace_back--直接构造函数在末尾
 
